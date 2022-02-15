@@ -1,0 +1,20 @@
+body{
+    background: url("background.jpg");
+    font-family: 'Redressed', cursive;
+    background-size: cover;
+    position: center;
+}
+
+.header{
+    color: white;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+    background-color:lightslategrey;
+    font-size: 50px;
+    margin-top: 0;
+    position: sticky;
+}
+
+#status, #object{
+    font-size: 20px;
+}
